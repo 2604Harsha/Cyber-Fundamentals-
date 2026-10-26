@@ -1,0 +1,82 @@
+Cyber Security Fundamentals & Basic Security Answers
+
+1.	Explain What Cyber Security and Why it is Important 
+Ans) Cyber Security is the practice of protecting computer systems, networks, applications, devices, 
+and data from unauthorized access, attacks, theft, and damage. It is important because it protects sensitive
+ information, prevents cyberattacks and financial losses, maintains privacy, ensures system availability, and 
+ builds trust between organizations and their customers 
+
+2.	Explain at least 5 common cyber threats such as phishing, Malware, Ransomware, Social Engineering, and Password Attacks.
+ Ans) Phishing: 
+            Phishing is a Cyberattack where attackers send fake emails, messages, or 
+            website that appear to be legitimate to steal sensitive information such as
+             passwords, bank details or OTPs. 
+    Malware: 
+            Malware (Malicious Software) is software Designed to damage system, steal 
+            information or gain authorized access 
+
+    Common Types Include:
+	Virus
+	Worm 
+	Trojan 
+	Spyware 
+	Adware 
+
+    Ransomware:
+         Ransomware is malware that encrypts or block access to files or systems and demands money from the victim to restore access. 
+         Example: A company’s files become encrypted and a message demands payment in cryptocurrency to decrypt them. 
+
+    Social Engineering:
+        Social Engineering involves manipulating or deceiving people into revealing confidential information  or performing an unsafe action . 
+        Example: An attacker pretends to be an IT Employee and asks a staff member for their password 
+
+     Password Attacks: 
+        Password attacks are attempts to obtain or guess a user’s password to gain unauthorized access. 
+    Common methods include:
+	   Brute – force attacks 
+	   Dictionary Attacks 
+	   Credential Stuffing 
+	   Password Spraying 
+
+3.	Explain the Difference Between a Strong Password and Weak Password 
+Ans) Strong Password:
+	Long and Complex 
+	Uses Upper case, lowercase, numbers and special characters 
+	Difficult to guess 
+	Unique for each Account 
+	Does not contain personal Information 
+              	Weak Password:
+	Short and Simple 
+	Uses only letters or simple numbers 
+	Easy to guess 
+	Reused  across Multiple Accounts 
+	Contains names, Birthdays, Phone numbers 
+
+4.	List at least 7 basic Cyber Security Practices that every user should follow 
+       Ans)  Every User Should Follow these basics
+	Use strong and Unique Passwords
+	Enable Multi Factor Authentication 
+	Keep Software Updated 
+	Be careful with Emails and Links 
+	Use Antivirus and  Firewall Protection 
+	Avoid Unsecure Public Wi Fi 
+	Back Up important Data 
+
+5.	Explain Why Multi Factor Authentication(MFA) is Important 
+Ans)  Multi – Factor Authentication(MFA) is Important because  It provides  an additional
+ layer of security beyond a password. Even if a password is stolen or compromised , the 
+ attacker still needs another verification Factor, such as an OTP, authenticator app, or biometric Verification 
+
+6.	Give 2 – real world examples of cyber attacks or security incidents 
+Ans) 
+	 WannaCry Ransomware Attack – 2017 
+In 2017, the WannaCry ransomware attack affected computers in many countries. 
+The malware encrypted files and displayed a message demanding payment from victims. 
+Several Organizations were affected , Including parts of the Uk’s National Health Service(NHS), 
+Which Experienced disruption to some health care Services 
+
+SolarWinds Cyber attack – 2020 
+In 2020, attackers compromised a software update associated with Solar Winds Orion Platform.
+ Malicious code was distributed  through legitimate – looking software updates allowing attackers
+  to gain access to some organizations 
+
